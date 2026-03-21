@@ -220,6 +220,7 @@ Agent Skills use the [Open Agent Skills specification](https://agentskills.io/sp
 |------|-------|--------|-------------|
 | [robotstxt-ai](https://github.com/sharozdawa/robotstxt-ai) | New | :green_circle: Active | Visual robots.txt manager for AI crawlers — toggle GPTBot, ClaudeBot, PerplexityBot, 20+ bots |
 | [indexnow-mcp](https://github.com/sharozdawa/indexnow-mcp) | New | :green_circle: Active | Instant URL indexing via IndexNow (Bing, Yandex, Naver, Seznam) and Google Indexing API |
+| [schema-gen](https://github.com/sharozdawa/schema-gen) | New | :green_circle: Active | Schema.org JSON-LD markup generator — 12 types with live preview, web app + MCP server |
 | [serpbear](https://github.com/towfiqi/serpbear) | 1,900+ | :green_circle: Active | Self-hosted rank tracker — unlimited keywords, GSC integration |
 | [SiteOne Crawler](https://github.com/janreges/siteone-crawler) | 699 | :green_circle: Active | Cross-platform crawler in Rust, CI/CD integration |
 | [seonaut](https://github.com/StJudeWasHere/seonaut) | 661 | :green_circle: Active | Go-based SEO auditing tool with interactive dashboard |
@@ -243,7 +244,7 @@ These are categories with **no viable open source solution** — massive opportu
 | **Keyword Cannibalization** | No standalone detection tool | Part of $99+/mo suites |
 | **Log File Analysis** | No usable SEO-focused log analyzer | $99/yr |
 | **Internal Linking** | No platform-agnostic link analysis tool | $69+/mo |
-| **Schema Generation MCP** | No dedicated structured data MCP server | Free web tools exist |
+| **Schema Generation MCP** | [schema-gen](https://github.com/sharozdawa/schema-gen) now fills this gap! | Free & Open Source |
 | **robots.txt AI Manager** | [robotstxt-ai](https://github.com/sharozdawa/robotstxt-ai) now fills this gap! | Free & Open Source |
 
 ---
