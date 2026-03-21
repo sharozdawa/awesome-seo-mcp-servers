@@ -219,6 +219,7 @@ Agent Skills use the [Open Agent Skills specification](https://agentskills.io/sp
 | Name | Stars | Status | Description |
 |------|-------|--------|-------------|
 | [robotstxt-ai](https://github.com/sharozdawa/robotstxt-ai) | New | :green_circle: Active | Visual robots.txt manager for AI crawlers — toggle GPTBot, ClaudeBot, PerplexityBot, 20+ bots |
+| [indexnow-mcp](https://github.com/sharozdawa/indexnow-mcp) | New | :green_circle: Active | Instant URL indexing via IndexNow (Bing, Yandex, Naver, Seznam) and Google Indexing API |
 | [serpbear](https://github.com/towfiqi/serpbear) | 1,900+ | :green_circle: Active | Self-hosted rank tracker — unlimited keywords, GSC integration |
 | [SiteOne Crawler](https://github.com/janreges/siteone-crawler) | 699 | :green_circle: Active | Cross-platform crawler in Rust, CI/CD integration |
 | [seonaut](https://github.com/StJudeWasHere/seonaut) | 661 | :green_circle: Active | Go-based SEO auditing tool with interactive dashboard |
@@ -238,7 +239,7 @@ These are categories with **no viable open source solution** — massive opportu
 | **Content Optimization** | No open source Surfer SEO / Clearscope | $89-170/mo |
 | **AI Visibility Tracking** | No comprehensive GEO/AEO tracking platform | $100-500/mo |
 | **SEO A/B Testing** | No open source SearchPilot alternative | $2,000+/mo |
-| **IndexNow / Indexing API** | No MCP server for instant URL indexing | Free APIs, no tools |
+| **IndexNow / Indexing API** | [indexnow-mcp](https://github.com/sharozdawa/indexnow-mcp) now fills this gap! | Free & Open Source |
 | **Keyword Cannibalization** | No standalone detection tool | Part of $99+/mo suites |
 | **Log File Analysis** | No usable SEO-focused log analyzer | $99/yr |
 | **Internal Linking** | No platform-agnostic link analysis tool | $69+/mo |
