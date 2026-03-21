@@ -283,6 +283,17 @@ If you know of an SEO MCP server, agent skill, or open source tool not listed he
 
 ---
 
+## More Open Source SEO Tools
+
+| Tool | Description |
+|------|-------------|
+| [robotstxt-ai](https://github.com/sharozdawa/robotstxt-ai) | Visual robots.txt manager for AI crawlers |
+| [indexnow-mcp](https://github.com/sharozdawa/indexnow-mcp) | Instant URL indexing via IndexNow |
+| [schema-gen](https://github.com/sharozdawa/schema-gen) | Schema.org JSON-LD markup generator |
+| [ai-visibility](https://github.com/sharozdawa/ai-visibility) | AI brand visibility tracker |
+
+---
+
 <div align="center">
 
 ### Maintained by
