@@ -222,6 +222,7 @@ Agent Skills use the [Open Agent Skills specification](https://agentskills.io/sp
 | [indexnow-mcp](https://github.com/sharozdawa/indexnow-mcp) | New | :green_circle: Active | Instant URL indexing via IndexNow (Bing, Yandex, Naver, Seznam) and Google Indexing API |
 | [schema-gen](https://github.com/sharozdawa/schema-gen) | New | :green_circle: Active | Schema.org JSON-LD markup generator — 12 types with live preview, web app + MCP server |
 | [ai-visibility](https://github.com/sharozdawa/ai-visibility) | New | :green_circle: Active | Track brand visibility across ChatGPT, Perplexity, Claude, Gemini — scores, trends, competitor analysis |
+| [content-optimizer](https://github.com/sharozdawa/content-optimizer) | New | :green_circle: Active | Open source Surfer SEO alternative — SERP-based content scoring, entity analysis, 7 categories |
 | [serpbear](https://github.com/towfiqi/serpbear) | 1,900+ | :green_circle: Active | Self-hosted rank tracker — unlimited keywords, GSC integration |
 | [SiteOne Crawler](https://github.com/janreges/siteone-crawler) | 699 | :green_circle: Active | Cross-platform crawler in Rust, CI/CD integration |
 | [seonaut](https://github.com/StJudeWasHere/seonaut) | 661 | :green_circle: Active | Go-based SEO auditing tool with interactive dashboard |
@@ -238,7 +239,7 @@ These are categories with **no viable open source solution** — massive opportu
 
 | Category | What's Missing | Incumbent Price |
 |----------|---------------|-----------------|
-| **Content Optimization** | No open source Surfer SEO / Clearscope | $89-170/mo |
+| **Content Optimization** | [content-optimizer](https://github.com/sharozdawa/content-optimizer) now fills this gap! | Free & Open Source |
 | **AI Visibility Tracking** | [ai-visibility](https://github.com/sharozdawa/ai-visibility) now fills this gap! | Free & Open Source |
 | **SEO A/B Testing** | No open source SearchPilot alternative | $2,000+/mo |
 | **IndexNow / Indexing API** | [indexnow-mcp](https://github.com/sharozdawa/indexnow-mcp) now fills this gap! | Free & Open Source |
