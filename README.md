@@ -186,6 +186,7 @@ Agent Skills use the [Open Agent Skills specification](https://agentskills.io/sp
 | [marketing-skills](https://github.com/kostja94/marketing-skills) | 219 | - | 160+ markdown skills with deep SEO coverage |
 | [Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill) | 191 | - | 16 sub-skills, 10 agents, supports Antigravity + Claude Code + Codex |
 | [ai-workflow](https://github.com/nicepkg/ai-workflow) | 139 | - | 170+ skills total, Content Creator workflow has 32 SEO skills |
+| [toprank](https://github.com/nowork-studio/toprank) | 115 | 115 | Claude Code plugin for SEO + Google Ads with Search Console analysis, content writing, and CMS setup |
 
 ### :satellite: GEO & AEO Skills
 
