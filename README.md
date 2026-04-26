@@ -41,6 +41,7 @@ Agent Skills (SKILL.md) add SEO capabilities directly inside 30+ AI agents.
 | [google-search-console-mcp](https://github.com/surendranb/google-search-console-mcp) | 26 | :green_circle: Active | GSC for Claude, Cursor, Windsurf |
 | [awesome-gsc-mcp](https://github.com/Magdoub/awesome-gsc-mcp) | 11 | :green_circle: Active | GSC with 27 tools, analysis engine, caching, rate limiting |
 | [gsc-mcp-server](https://github.com/serpfire/gsc-mcp-server) | 8 | :green_circle: Active | 28 tools incl. keyword cannibalization detection, traffic drop diagnostics |
+| [google-search-console-mcp-claude-code](https://github.com/mario-hernandez/google-search-console-mcp-claude-code) | New | :green_circle: Active | Python/FastMCP — traffic-drop diagnosis, quick wins, content decay, cannibalization, alerts; read-only by default with anti-hallucination provenance metadata |
 
 ### :bar_chart: Analytics
 
