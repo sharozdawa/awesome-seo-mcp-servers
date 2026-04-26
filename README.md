@@ -47,6 +47,7 @@ Agent Skills (SKILL.md) add SEO capabilities directly inside 30+ AI agents.
 | Name | Stars | Status | Description |
 |------|-------|--------|-------------|
 | [google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp) | 1,529+ | :green_circle: Active | **Official** GA4 MCP with schema discovery |
+| [google-analytics-mcp-claude-code](https://github.com/mario-hernandez/google-analytics-mcp-claude-code) | New | :green_circle: Active | Python/FastMCP — GA4 with diagnostic intelligence (anomalies, traffic drops, content decay, conversion funnel, GSC&rarr;GA4 journey, channel attribution). Read-only with anti-hallucination provenance metadata. |
 | [google-ads-mcp](https://developers.google.com/google-ads/api/docs/developer-toolkit/mcp-server) | - | :green_circle: Active | **Official** Google Ads read-only campaign analysis |
 
 ### :key: Keyword Research
