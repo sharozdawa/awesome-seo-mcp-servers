@@ -36,6 +36,7 @@ Agent Skills (SKILL.md) add SEO capabilities directly inside 30+ AI agents.
 
 | Name | Stars | Status | Description |
 |------|-------|--------|-------------|
+| [google-seo-mcp-claude-code](https://github.com/mario-hernandez/google-seo-mcp-claude-code) | New | :green_circle: Active | Unified GSC + GA4 + 5 cross-platform tools (also listed in Multi-Platform Suites) — Python/FastMCP, read-only with anti-hallucination provenance |
 | [mcp-gsc](https://github.com/AminForou/mcp-gsc) | 560+ | :green_circle: Active | Google Search Console with 19+ tools, regex filters, quick wins detection |
 | [mcp-server-gsc](https://github.com/ahonn/mcp-server-gsc) | - | :green_circle: Active | GSC with 25,000 rows of performance data |
 | [google-search-console-mcp](https://github.com/surendranb/google-search-console-mcp) | 26 | :green_circle: Active | GSC for Claude, Cursor, Windsurf |
@@ -47,6 +48,7 @@ Agent Skills (SKILL.md) add SEO capabilities directly inside 30+ AI agents.
 | Name | Stars | Status | Description |
 |------|-------|--------|-------------|
 | [google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp) | 1,529+ | :green_circle: Active | **Official** GA4 MCP with schema discovery |
+| [google-seo-mcp-claude-code](https://github.com/mario-hernandez/google-seo-mcp-claude-code) | New | :green_circle: Active | Unified GSC + GA4 + 5 cross-platform tools (also listed in Multi-Platform Suites) — diagnostic intelligence, leave-one-out Z-score anomaly detection, real funnels |
 | [google-ads-mcp](https://developers.google.com/google-ads/api/docs/developer-toolkit/mcp-server) | - | :green_circle: Active | **Official** Google Ads read-only campaign analysis |
 
 ### :key: Keyword Research
@@ -125,6 +127,7 @@ Agent Skills (SKILL.md) add SEO capabilities directly inside 30+ AI agents.
 
 | Name | Stars | Status | Description |
 |------|-------|--------|-------------|
+| [google-seo-mcp-claude-code](https://github.com/mario-hernandez/google-seo-mcp-claude-code) | New | :green_circle: Active | Python/FastMCP — The complete unified Google SEO suite: Search Console + Analytics 4 + 5 cross-platform tools (GSC↔GA4 journey, opportunity matrix, traffic health check, revenue attribution, landing page full diagnosis). Read-only with anti-hallucination provenance |
 | [dataforseo-mcp-server](https://github.com/Skobyn/dataforseo-mcp-server) | 71 | :green_circle: Active | Comprehensive — 12 API categories: SERP, keywords, backlinks, on-page, content, AI optimization |
 | [semrush-mcp](https://github.com/mrkooblu/semrush-mcp) | 29 | :green_circle: Active | **77 tools** — domain analytics, backlinks, keyword research, traffic, site audit |
 | [semrush-mcp (metehan777)](https://github.com/metehan777/semrush-mcp) | 12 | :green_circle: Active | Alternative Semrush integration |
