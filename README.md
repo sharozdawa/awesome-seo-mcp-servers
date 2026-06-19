@@ -179,6 +179,7 @@ Agent Skills use the [Open Agent Skills specification](https://agentskills.io/sp
 |------|-------|----------|-------------|
 | [marketingskills](https://github.com/coreyhaines31/marketingskills) | 14,967 | 48K+ | 35 marketing skills incl. 6 SEO: seo-audit, ai-seo, programmatic-seo, site-architecture, schema-markup |
 | [geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) | 3,363 | - | GEO-first — 5 subagents, citability scoring, AI crawler analysis (14+ bots), llms.txt generation |
+| [NotFair](https://github.com/nowork-studio/NotFair) | 2,924 | - | Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — connects via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP |
 | [seomachine](https://github.com/TheCraigHewitt/seomachine) | 2,818 | - | Long-form content workspace — 10 agents, 26 commands, GA4/GSC/DataForSEO integration |
 | [claude-seo](https://github.com/AgriciDaniel/claude-seo) | 2,662 | - | Universal SEO skill v1.5 — 12 sub-skills, 7 subagents, E-E-A-T, Core Web Vitals, GEO/AEO |
 | [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | 454 | 11K+ | 20 skills across Research/Build/Optimize/Monitor phases, cross-platform |
