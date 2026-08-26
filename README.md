@@ -126,6 +126,7 @@ Agent Skills (SKILL.md) add SEO capabilities directly inside 30+ AI agents.
 | Name | Stars | Status | Description |
 |------|-------|--------|-------------|
 | [dataforseo-mcp-server](https://github.com/Skobyn/dataforseo-mcp-server) | 71 | :green_circle: Active | Comprehensive — 12 API categories: SERP, keywords, backlinks, on-page, content, AI optimization |
+| [rankrat](https://github.com/psyb0t/rankrat) | 0 | :green_circle: Active | Self-hosted SEO operations across Search Console, GA4, Bing Webmaster, PageSpeed, CrUX, Cloudflare, Clarity, and Google Tag Manager |
 | [semrush-mcp](https://github.com/mrkooblu/semrush-mcp) | 29 | :green_circle: Active | **77 tools** — domain analytics, backlinks, keyword research, traffic, site audit |
 | [semrush-mcp (metehan777)](https://github.com/metehan777/semrush-mcp) | 12 | :green_circle: Active | Alternative Semrush integration |
 | [seo-data-api-mcp-server](https://github.com/seranking/seo-data-api-mcp-server) | 8 | :green_circle: Active | **Official** SE Ranking — 60+ data tools, 50+ project tools, AI search visibility |
