@@ -48,6 +48,7 @@ Agent Skills (SKILL.md) add SEO capabilities directly inside 30+ AI agents.
 |------|-------|--------|-------------|
 | [google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp) | 1,529+ | :green_circle: Active | **Official** GA4 MCP with schema discovery |
 | [google-ads-mcp](https://developers.google.com/google-ads/api/docs/developer-toolkit/mcp-server) | - | :green_circle: Active | **Official** Google Ads read-only campaign analysis |
+| [Unfetch](https://github.com/unfetch-com/agent-plugin) | 0 | :green_circle: Active | Hosted Google Ads MCP, Google Analytics, and Search Console reporting with keyword research; OAuth and read-only account access. [Setup](https://unfetch.com/plugin) |
 
 ### :key: Keyword Research
 
