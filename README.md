@@ -160,6 +160,7 @@ Agent Skills (SKILL.md) add SEO capabilities directly inside 30+ AI agents.
 | SERP AI Overview | Google AI Overview + PAA extraction |
 | Keys.so SEO | 150+ API endpoints for keyword research |
 | SiteRooster MCP | SEO monitoring, AI visibility tracking |
+| [Screpy SEO MCP](https://screpy.com/feature/seo-mcp/) | Hosted SEO MCP with 44 project-scoped tools for crawl, rank tracking, stored AI visibility, and uptime; browser-based OAuth |
 | EzBiz SEO & Marketing | Keyword research, SERP, backlinks, content optimization |
 | SEO Checker (Hostinger) | Multi-dimension SEO analysis |
 | Coupler.io MCP | 70+ data source connections including GA, Google Ads, HubSpot |
