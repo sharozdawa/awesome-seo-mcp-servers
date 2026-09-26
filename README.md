@@ -164,6 +164,7 @@ Agent Skills (SKILL.md) add SEO capabilities directly inside 30+ AI agents.
 | SEO Checker (Hostinger) | Multi-dimension SEO analysis |
 | Coupler.io MCP | 70+ data source connections including GA, Google Ads, HubSpot |
 | Nightwatch SEO Agent | SEO monitoring and analysis |
+| HarborRank | Keyword research, SERPs, backlinks, rank tracking, site audits, Search Console (remote, OAuth, paid plan) |
 
 </details>
 
@@ -204,6 +205,7 @@ Agent Skills use the [Open Agent Skills specification](https://agentskills.io/sp
 | [claude-seo-skill](https://github.com/mangollc/claude-seo-skill) | 19 | Agency-focused — AEO discovery, brand SERP monitoring, multi-client |
 | [30x-seo](https://github.com/norahe0304-art/30x-seo) | 14 | 24 skills + Squirrelscan CLI with 230+ rules |
 | [seo-claude-code-skills](https://github.com/ccforseo/seo-claude-code-skills) | 2 | Technical audits, keyword clustering, AI visibility |
+| [harborrank-skills](https://github.com/winsley-jeune/harborrank-skills) | 0 | 7 research skills (keyword research, clustering, competitor analysis, link prospecting) on live data via the HarborRank MCP server; Claude Code plugin |
 
 ### :gear: OpenClaw SEO Skills
 
