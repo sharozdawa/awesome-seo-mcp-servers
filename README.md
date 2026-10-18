@@ -164,6 +164,7 @@ Agent Skills (SKILL.md) add SEO capabilities directly inside 30+ AI agents.
 | SEO Checker (Hostinger) | Multi-dimension SEO analysis |
 | Coupler.io MCP | 70+ data source connections including GA, Google Ads, HubSpot |
 | Nightwatch SEO Agent | SEO monitoring and analysis |
+| [GSCmate](https://gscmate.com) | Hosted, read-only Google Search Console MCP server for properties, Search Analytics, sitemaps, and URL inspection, using per-user Google OAuth 2.1. |
 
 </details>
 
