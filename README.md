@@ -137,6 +137,10 @@ Agent Skills (SKILL.md) add SEO capabilities directly inside 30+ AI agents.
 > [!IMPORTANT]
 > **Gap Alert:** No MCP server tracks brand visibility across ChatGPT, Perplexity, Claude, and Gemini. This is a rapidly growing need.
 
+| Name | Stars | Status | Description |
+|------|-------|--------|-------------|
+| [CiteLadder](https://github.com/abhij1306/CiteLadder) | 2 | :green_circle: Active | Open-source (AGPL-3.0) AI search visibility tracker: how ChatGPT, Gemini, Claude and AI Overviews answer buyer questions, brands named, pages cited. Remote MCP, 46 tools |
+
 ### :toolbox: Other SEO Tools
 
 | Name | Stars | Status | Description |
