@@ -166,6 +166,7 @@ Agent Skills (SKILL.md) add SEO capabilities directly inside 30+ AI agents.
 | Nightwatch SEO Agent | SEO monitoring and analysis |
 
 </details>
+| Vaneform MCP | Free website traffic estimates, trends, and channel mix for any domain |
 
 ---
 
