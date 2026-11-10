@@ -101,6 +101,7 @@ Agent Skills (SKILL.md) add SEO capabilities directly inside 30+ AI agents.
 |------|-------|--------|-------------|
 | [serpapi-mcp](https://github.com/serpapi/serpapi-mcp) | 122 | :green_circle: Active | **Official** SerpAPI — Google and other search engine SERP results |
 | [mcp-server-serper](https://github.com/marcopesani/mcp-server-serper) | 147 | :green_circle: Active | Serper API — Google search + web scraping |
+| [flashdata-mcp](https://github.com/rocosen/flashdata-mcp) | 0 | :green_circle: Active | Official Google Search/News/Images/Shopping/Videos/Places and YouTube research data, including existing transcripts/captions; API key and paid Credits |
 
 ### :zap: PageSpeed & Core Web Vitals
 
