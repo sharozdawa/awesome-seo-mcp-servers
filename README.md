@@ -133,6 +133,9 @@ Agent Skills (SKILL.md) add SEO capabilities directly inside 30+ AI agents.
 | [seo-mcp-tools](https://github.com/dalebertrand/seo-mcp-tools) | 4 | :green_circle: Active | Generic SEO tools via MCP |
 
 ### :robot: AI Search & Visibility
+| Name | Stars | Status | Description |
+|------|-------|--------|-------------|
+| [pineprompt-mcp](https://github.com/height-labs-eric/pineprompt-mcp) | 0 | :green_circle: Active | Pineprompt MCP server for AI search visibility data: brand mentions, position, sentiment and cited sources across ChatGPT, Gemini, Claude and Google AI Overviews. Requires a paid Pineprompt account. |
 
 > [!IMPORTANT]
 > **Gap Alert:** No MCP server tracks brand visibility across ChatGPT, Perplexity, Claude, and Gemini. This is a rapidly growing need.
