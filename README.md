@@ -131,6 +131,7 @@ Agent Skills (SKILL.md) add SEO capabilities directly inside 30+ AI agents.
 | [seo-data-api-mcp-server](https://github.com/seranking/seo-data-api-mcp-server) | 8 | :green_circle: Active | **Official** SE Ranking — 60+ data tools, 50+ project tools, AI search visibility |
 | [SEO-API-MCP](https://github.com/SEO-Review-Tools/SEO-API-MCP) | 3 | :green_circle: Active | SEO Review Tools — traffic analysis, authority scoring, backlink discovery |
 | [seo-mcp-tools](https://github.com/dalebertrand/seo-mcp-tools) | 4 | :green_circle: Active | Generic SEO tools via MCP |
+| [AgentSEO](https://github.com/AgentSEO-dev/agentseo-clients/tree/main/packages/mcp-server) | 0 | :green_circle: Active | Paid SEO/AEO data API and hosted MCP server for Google SERPs, keyword and competitor research, backlinks, rank tracking, site audits, and AI search visibility; 100 one-time introductory credits, plans from $9/month; API key required. |
 
 ### :robot: AI Search & Visibility
 
