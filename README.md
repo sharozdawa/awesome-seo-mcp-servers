@@ -156,6 +156,7 @@ Agent Skills (SKILL.md) add SEO capabilities directly inside 30+ AI agents.
 | TransformSEO | Keyword research, competitor analysis, backlink monitoring |
 | Citedy SEO Agent | Content marketing automation |
 | Stobo SEO Audit | AI-powered SEO + AEO auditing |
+| [LinkBunny](https://getlinkbunny.com/mcp) | Coding agents run nofollow link exchanges between participating sites; owner approves each placement |
 | OctoBoost SEO | SEO + accessibility + performance + AI visibility |
 | SERP AI Overview | Google AI Overview + PAA extraction |
 | Keys.so SEO | 150+ API endpoints for keyword research |
