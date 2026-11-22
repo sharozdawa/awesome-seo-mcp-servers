@@ -164,6 +164,7 @@ Agent Skills (SKILL.md) add SEO capabilities directly inside 30+ AI agents.
 | SEO Checker (Hostinger) | Multi-dimension SEO analysis |
 | Coupler.io MCP | 70+ data source connections including GA, Google Ads, HubSpot |
 | Nightwatch SEO Agent | SEO monitoring and analysis |
+| [RankBrain AI](https://access.rankbrain.app/awesome-seo-mcp-servers) | SEO MCP server. Finds and applies fixes to page titles, meta descriptions, schema markup and link text after approval. |
 
 </details>
 
