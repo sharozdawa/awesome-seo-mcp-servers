@@ -144,6 +144,7 @@ Agent Skills (SKILL.md) add SEO capabilities directly inside 30+ AI agents.
 | [etsy-seo-mcp](https://github.com/semihbugrasezer/etsy-seo-mcp) | 6 | :green_circle: Active | Etsy product listing SEO — titles, descriptions, tags |
 | [seontology-mcp-server](https://github.com/Instilla-AI/seontology-mcp-server) | 0 | :green_circle: Active | Semantic SEO via SEOntology |
 | [LLMTEXT-mcp](https://github.com/janwilmake/LLMTEXT-mcp) | 48 | :green_circle: Active | llms.txt to MCP converter |
+| [conqueror-seo-brain](https://github.com/chddaniel/conqueror-seo-brain) | 0 | :green_circle: Active | Free remote MCP (OAuth): SEO and AI citation (AEO/GEO) playbooks, checklists, templates, weekly plan |
 
 ### :cloud: Commercial/Hosted MCP Servers (Not Open Source)
 
