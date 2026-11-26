@@ -204,6 +204,7 @@ Agent Skills use the [Open Agent Skills specification](https://agentskills.io/sp
 | [claude-seo-skill](https://github.com/mangollc/claude-seo-skill) | 19 | Agency-focused — AEO discovery, brand SERP monitoring, multi-client |
 | [30x-seo](https://github.com/norahe0304-art/30x-seo) | 14 | 24 skills + Squirrelscan CLI with 230+ rules |
 | [seo-claude-code-skills](https://github.com/ccforseo/seo-claude-code-skills) | 2 | Technical audits, keyword clustering, AI visibility |
+| [Qonvert Marketing AI](https://github.com/Qonvert-Marketing-AI/qonvert-marketing-skills/tree/main/skills/prioritize-organic-search) | 0 | Prioritizes SEO fixes from Search Console or Yandex Webmaster exports and compares equivalent periods |
 
 ### :gear: OpenClaw SEO Skills
 
